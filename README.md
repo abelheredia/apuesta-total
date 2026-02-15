@@ -1,12 +1,12 @@
 # 🏆 BetDay Lite - Reto Técnico
 
-**BetDay Lite** es una plataforma web de apuestas deportivas construida con **Next.js 15** y **React 18**. La aplicación permite a los usuarios visualizar eventos deportivos, realizar selecciones en tiempo real y gestionar su historial de apuestas con una experiencia de usuario fluida y moderna.
+**BetDay Lite** es una plataforma web de apuestas deportivas construida con **Next.js** y **React**. La aplicación permite a los usuarios visualizar eventos deportivos, realizar selecciones en tiempo real y gestionar su historial de apuestas con una experiencia de usuario fluida y moderna.
 
 ---
 
 ## 🚀 Tecnologías Utilizadas
 
-- **Framework:** [Next.js 15 (App Router)](https://nextjs.org/)
+- **Framework:** [Next.js (App Router)](https://nextjs.org/)
 - **Lenguaje:** TypeScript
 - **Autenticación:** [NextAuth.js](https://next-auth.js.org/)
 - **Estilos:** Tailwind CSS
@@ -84,6 +84,6 @@ La aplicación está optimizada para ser desplegada en **Vercel**.
 
 ### Notas de Implementación
 
-- Se manejó la nueva firma de `params` asíncronos en Next.js 15 para las rutas dinámicas.
+- Se manejó la nueva firma de `params` asíncronos en Next.js para las rutas dinámicas.
 - Se implementó un sistema de feedback basado en **Toasts** para eliminar el uso de `window.alert` y mejorar la UX.
 - La UI es totalmente **Responsive**, adaptándose a dispositivos móviles y escritorio.
