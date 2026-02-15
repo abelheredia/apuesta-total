@@ -13,7 +13,7 @@ export const authOptions: NextAuthOptions = {
         if (!credentials?.email) return null;
         return {
           id: '1',
-          name: 'User Beta',
+          name: 'Invitado',
           email: credentials?.email
         };
       }

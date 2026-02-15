@@ -22,7 +22,7 @@ export default function Navbar() {
                 onClick={() => signOut({ callbackUrl: '/' })}
                 className="bg-slate-800 px-3 py-1 rounded-md text-slate-400 hover:bg-red-500/10 hover:text-red-500 transition-all"
               >
-                Cerrar Session
+                Cerrar Sesión
               </button>
             </>
           ) : (
