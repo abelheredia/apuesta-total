@@ -50,8 +50,8 @@
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone [https://github.com/tu-usuario/betday-lite.git](https://github.com/tu-usuario/betday-lite.git)
-    cd betday-lite
+    git clone [https://github.com/abelheredia/apuesta-total.git](https://github.com/abelheredia/apuesta-total.git)
+    cd apuesta-total
     ```
 
 2.  **Instalar dependencias:**
